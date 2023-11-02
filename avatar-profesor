@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Curso de Marketing con HoloEdu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .header {
+            background-color: #0082FC;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        .avatar {
+            max-width: 300px;
+            margin: 20px auto;
+            display: block;
+        }
+        .content {
+            text-align: center;
+            padding: 20px;
+        }
+        .features {
+            display: flex;
+            justify-content: space-around;
+            margin: 30px 0;
+        }
+        .feature {
+            flex: 1;
+            padding: 20px;
+        }
+        .cta-button {
+            background-color: #0082FC;
+            color: #fff;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .social-icons {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <img src="logo.png" alt="Hologram Logo">
+        <h1>Curso de Marketing para Jóvenes de 18 años</h1>
+        <h2>Tu propio tutor holográfico y gráficas de avance</h2>
+    </div>
+
+    <img class="avatar" src="avatar_image.png" alt="Tutor Holográfico">
+
+    <div class="content">
+        <p><strong>¡Bienvenido! Experimenta el futuro de la educación con HoloEdu.</strong></p>
+        <p>Con HoloEdu, la educación nunca ha sido tan emocionante. Nuestro innovador curso de marketing está diseñado para jóvenes de 18 años que desean aprender de una manera única y efectiva.</p>
+    </div>
+
+    <div class="features">
+        <div class="feature">
+            <h3>Tutor Holográfico</h3>
+            <p>Nuestro avatar holográfico te guiará a lo largo de tu viaje de aprendizaje. Interactúa con él como si estuvieras en un aula real.</p>
+        </div>
+        <div class="feature">
+            <h3>Seguimiento de Progreso</h3>
+            <p>Mantén un registro de tus avances a lo largo del curso con gráficas detalladas. Observa cómo tu conocimiento crece con el tiempo.</p>
+        </div>
+        <div class="feature">
+            <h3>Itinerario Personalizado</h3>
+            <p>Cada estudiante es único. Adaptamos el itinerario de aprendizaje según tus necesidades y preferencias.</p>
+        </div>
+        <div class="feature">
+            <h3>Contenido de Calidad</h3>
+            <p>Nuestro curso es desarrollado por expertos en marketing. Obtén las habilidades y conocimientos que necesitas para tener éxito en el mundo del marketing.</p>
+        </div>
+    </div>
+
+    <div class="content">
+        <p><strong>¿Por qué elegir HoloEdu?</strong></p>
+        <p>Tecnología de Vanguardia, Interactividad Inmersiva, Aprendizaje Personalizado, Resultados Comprobados.</p>
+    </div>
+
+    <div class="content">
+        <p><strong>¡Únete a la Revolución de la Educación!</strong></p>
+        <a class="cta-button" href="tu_link_de_inscripcion">Regístrate Ahora</a>
+    </div>
+
+    <div class="content">
+        <p><strong>¿Tienes alguna pregunta?</strong> Contáctanos en [correo electrónico] o [número de teléfono].</p>
+    </div>
+
+    <div class="social-icons">
+        <p><strong>Síguenos en las redes sociales</strong></p>
+        [Agrega aquí tus iconos de redes sociales con enlaces]
+    </div>
+</body>
+
+</html>
